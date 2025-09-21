@@ -1,4 +1,4 @@
 # first-project-demo
 This is my first Git Repository.
 <br>
-Author - Aashish Shah
+Author - Aashish Shah (TechwithAashish)
